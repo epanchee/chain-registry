@@ -35,7 +35,7 @@
         "staking"
       ],
       "socials": {
-        "webiste": "https://osmosis.zone",
+        "website": "https://osmosis.zone",
         "twitter": "https://twitter.com/osmosiszone"
       }
     },
@@ -71,7 +71,7 @@
         "defi"
       ],
       "socials": {
-        "webiste": "https://ion.wtf",
+        "website": "https://ion.wtf",
         "twitter": "https://twitter.com/_IONDAO"
       }
     },
@@ -126,8 +126,8 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.axl.svg",
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.axl.png"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.axl.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.axl.svg"
       },
       "images": [
         {
@@ -195,7 +195,8 @@
         }
       ],
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth-white.png"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth-white.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth-white.svg"
       },
       "images": [
         {
@@ -255,8 +256,8 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wbtc.axl.svg",
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wbtc.axl.png"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wbtc.axl.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wbtc.axl.svg"
       },
       "images": [
         {
@@ -323,7 +324,8 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.axl.svg"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg"
       },
       "images": [
         {
@@ -666,7 +668,8 @@
         }
       ],
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/matic-purple.png"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/matic-purple.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/matic-purple.svg"
       },
       "images": [
         {
@@ -726,7 +729,8 @@
         }
       ],
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/avax.png"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/avax.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/avax.svg"
       },
       "images": [
         {
@@ -887,7 +891,8 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/dot.axl.svg"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.svg"
       },
       "images": [
         {
@@ -3208,7 +3213,8 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wbtc.grv.svg"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.svg"
       },
       "images": [
         {
@@ -3271,7 +3277,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/weth.grv.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/weth.svg"
       },
       "images": [
         {
@@ -3333,7 +3339,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.grv.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
       },
       "images": [
         {
@@ -3395,7 +3401,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/dai.grv.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/dai.svg"
       },
       "images": [
         {
@@ -3457,7 +3463,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.grv.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg"
       },
       "images": [
         {
@@ -7148,7 +7154,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/polygon.usdc.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
       },
       "images": [
         {
@@ -7218,7 +7224,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/avalanche.usdc.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
       },
       "images": [
         {
@@ -9442,7 +9448,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wstETH.axl.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wsteth.svg"
       },
       "images": [
         {
@@ -10732,7 +10738,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.hole.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdt.svg"
       },
       "images": [
         {
@@ -10843,7 +10849,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/aptos/images/apt-dm.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/aptos/images/aptos.svg"
       },
       "images": [
         {
@@ -10996,7 +11002,7 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.hole.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
       },
       "images": [
         {
@@ -11063,7 +11069,8 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/weth.hole.svg"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth-white.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth-white.svg"
       },
       "images": [
         {
@@ -11127,7 +11134,8 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.svg"
       },
       "images": [
         {
@@ -11807,7 +11815,8 @@
         }
       ],
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx-circle.svg"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx.svg"
       },
       "images": [
         {
@@ -12590,7 +12599,8 @@
       ]
     },
     {
-      "description": "Levana native token",
+      "description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts.",
+      "extended_description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts. It aims to manage risk and provide benefits to both traders and liquidity providers.\n\nFor traders, Levana's solution is to make all positions \"well-funded,\" meaning that the maximum profit for each position is locked in advance. This eliminates the possibility of bad debt and insolvency, providing greater security.\n\nLiquidity providers, on the other hand, receive a yield for taking on the risk of market instability. They supply funds that act as collateral, and in return, they earn a fee with a risk premium.\n\nThe protocol addresses the issues with existing perpetual swap models, such as the virtual AMM. These models rely on complex mechanisms to maintain price stability, but they have limitations and can be risky in volatile markets.\n\nBy separating different trading pairs and creating a decentralized market for liquidity, Levana reduces the risk of contagion between different markets. This also makes it easier to expand to other blockchain networks.\n\nOverall, Levana's perpetual swaps protocol offers a reliable and secure platform for traders and liquidity providers. It ensures fair settlement, minimizes risks, and allows for the development of additional financial protocols on top of tokenized positions.",
       "denom_units": [
         {
           "denom": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
@@ -14030,7 +14040,8 @@
       }
     },
     {
-      "description": "Sail DAO Token",
+      "description": "Sail DAO is a liquidity deployment and management DAO built as a collaboration between the Osmosis and Migaloo Blockchains.",
+      "extended_description": "Sail DAO is a liquidity deployment and management DAO built as a collaboration between the Osmosis and Migaloo Blockchains. Seeded by both the Osmosis Community Pool and the Migaloo Foundation, Sail DAO is open to hear offers from cosmos based projects that hope to seed liquidity for their token on the Osmosis blockchain. Along with the creation of this DAO the White Whale DEX is deployed on Osmosis, being the first DEX apart from Osmosis to deploy on the chain, it is a great step towards Osmosis becoming an ecosystem from an appchain. Migaloo incubated projects are encouraged to participate in OTC deals with Sail DAO in order to seed or enhance liquidity on WW's Osmosis DEX. However, offers are not limited to Migaloo projects and liquidity is not limitied to being deployed on WW DEX. The treasury of this DAO can be deployed however it wishes at the discretion of the Sail DAO voters. The Osmosis CP has been given veto authorization over any props introduced in this DAO and has also been given clawback rights if this venture ever gets off track.",
       "denom_units": [
         {
           "denom": "factory/osmo1rckme96ptawr4zwexxj5g5gej9s2dmud8r2t9j0k0prn5mch5g4snzzwjv/sail",
@@ -14052,7 +14063,11 @@
         {
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/sail.png"
         }
-      ]
+      ],
+      "socials": {
+        "website": "https://daodao.zone/dao/osmo106tvcj58rvdn9k36m9m3xcmcwk2c3fgft3ldcst9lgy05gcmjanqexru3h/home",
+        "twitter": "https://twitter.com/Sail_DAO_"
+      }
     },
     {
       "description": "Nomic's native token.",
@@ -14072,7 +14087,7 @@
       "type_asset": "ics20",
       "base": "ibc/F49DFB3BC8105C57EE7F17EC2402438825B31212CFDD81681EB87911E934F32C",
       "name": "Nomic",
-      "display": "nomic",
+      "display": "nom",
       "symbol": "nomic.NOM",
       "traces": [
         {
@@ -14176,13 +14191,325 @@
       "display": "toro",
       "symbol": "TORO",
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.png"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.svg"
       },
       "images": [
         {
-          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.png"
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.png",
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/toro.svg"
         }
       ]
+    },
+    {
+      "description": "SHARK is the apex price prediction market within Cosmos.",
+      "denom_units": [
+        {
+          "denom": "ibc/64D56DF9EC69BE554F49EBCE0199611062FF1137EF105E2F645C1997344F3834",
+          "exponent": 0,
+          "aliases": [
+            "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/shark"
+          ]
+        },
+        {
+          "denom": "SHARK",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "ics20",
+      "base": "ibc/64D56DF9EC69BE554F49EBCE0199611062FF1137EF105E2F645C1997344F3834",
+      "name": "SHARK",
+      "display": "SHARK",
+      "symbol": "SHARK",
+      "traces": [
+        {
+          "type": "ibc",
+          "counterparty": {
+            "chain_name": "migaloo",
+            "base_denom": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/shark",
+            "channel_id": "channel-5"
+          },
+          "chain": {
+            "channel_id": "channel-642",
+            "path": "transfer/channel-642/factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/shark"
+          }
+        }
+      ],
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/shark.png"
+      },
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/shark.png"
+        }
+      ]
+    },
+    {
+      "description": "BackBone Labs Liquid Staked OSMO",
+      "denom_units": [
+        {
+          "denom": "factory/osmo1s3l0lcqc7tu0vpj6wdjz9wqpxv8nk6eraevje4fuwkyjnwuy82qsx3lduv/boneOsmo",
+          "exponent": 0
+        },
+        {
+          "denom": "bOSMO",
+          "exponent": 6
+        }
+      ],
+      "address": "osmo1s3l0lcqc7tu0vpj6wdjz9wqpxv8nk6eraevje4fuwkyjnwuy82qsx3lduv",
+      "base": "factory/osmo1s3l0lcqc7tu0vpj6wdjz9wqpxv8nk6eraevje4fuwkyjnwuy82qsx3lduv/boneOsmo",
+      "name": "BackBone Labs Liquid Staked OSMO",
+      "display": "bOSMO",
+      "symbol": "bOSMO",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/bOSMO.png"
+      },
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/bOSMO.png"
+        }
+      ]
+    },
+    {
+      "description": "Memecoin for The International Brane Wave",
+      "denom_units": [
+        {
+          "denom": "factory/osmo13gu58hzw3e9aqpj25h67m7snwcjuccd7v4p55w/brnz",
+          "exponent": 0,
+          "aliases": [
+            "brnz"
+          ]
+        }
+      ],
+      "base": "factory/osmo13gu58hzw3e9aqpj25h67m7snwcjuccd7v4p55w/brnz",
+      "name": "Branez",
+      "display": "factory/osmo13gu58hzw3e9aqpj25h67m7snwcjuccd7v4p55w/brnz",
+      "symbol": "BRNZ",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/BRNZ.svg"
+      },
+      "images": [
+        {
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/BRNZ.svg"
+        }
+      ]
+    },
+    {
+      "description": "Cvn is a Layer-1 blockchain built to deliver on the promise of DeFi",
+      "denom_units": [
+        {
+          "denom": "ibc/D3FAF77F5DE21C18413B164751239BA7D521A9D8EA53BFE553AADF338A721480",
+          "exponent": 0,
+          "aliases": [
+            "acvnt"
+          ]
+        },
+        {
+          "denom": "cvnt",
+          "exponent": 18
+        }
+      ],
+      "type_asset": "ics20",
+      "base": "ibc/D3FAF77F5DE21C18413B164751239BA7D521A9D8EA53BFE553AADF338A721480",
+      "name": "CVN",
+      "display": "cvnt",
+      "symbol": "CVN",
+      "traces": [
+        {
+          "type": "ibc",
+          "counterparty": {
+            "chain_name": "conscious",
+            "base_denom": "acvnt",
+            "channel_id": "channel-5"
+          },
+          "chain": {
+            "channel_id": "channel-35264",
+            "path": "transfer/channel-35264/acvnt"
+          }
+        }
+      ],
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/conscious/images/cvn.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/conscious/images/cvn.svg"
+      },
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/conscious/images/cvn.png",
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/conscious/images/cvn.svg"
+        }
+      ]
+    },
+    {
+      "description": "LAB - Everything is an Experiment",
+      "extended_description": "LAB - Everything is an Experiment\n\nUse 10 $LAB tokens to mint 1 Mad Scientist NFT on Backbone Labs Osmosis Launchpad. You will then be able to trade your NFTs on the marketplace. You can also choose to hold onto your $LAB tokens as unrevealed NFTs and trade it.\n\n Fair Launch: The event was marked by the absence of whitelists (WLs), no bots and no lock, ensuring an equitable opportunity for all interested parties.\n\nPreparation for the Launch: Participants were given a 52.91-hour window to deposit $OSMO into a pool on Streamswap.\n\nThe Swap Process: After the initial deposit period, $OSMO was converted into $LAB tokens over an additional hour, allowing for a smooth transition and fair distribution.",
+      "denom_units": [
+        {
+          "denom": "factory/osmo17fel472lgzs87ekt9dvk0zqyh5gl80sqp4sk4n/LAB",
+          "exponent": 0
+        },
+        {
+          "denom": "LAB",
+          "exponent": 6
+        }
+      ],
+      "address": "osmo17fel472lgzs87ekt9dvk0zqyh5gl80sqp4sk4n",
+      "base": "factory/osmo17fel472lgzs87ekt9dvk0zqyh5gl80sqp4sk4n/LAB",
+      "name": "LAB",
+      "display": "LAB",
+      "symbol": "LAB",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/LAB.png"
+      },
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/LAB.png"
+        }
+      ]
+    },
+    {
+      "description": "OnE mEmEcOiN tO cOnNeCt oL ImBeCiles - aNd in Da Cosmos BiNd DeM",
+      "denom_units": [
+        {
+          "denom": "factory/osmo1kqdw6pvn0xww6tyfv2sqvkkencdz0qw406x54r/IBC",
+          "exponent": 0
+        },
+        {
+          "denom": "IBC",
+          "exponent": 6
+        }
+      ],
+      "base": "factory/osmo1kqdw6pvn0xww6tyfv2sqvkkencdz0qw406x54r/IBC",
+      "name": "IBC",
+      "display": "IBC",
+      "symbol": "IBC",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ibc.png"
+      },
+      "coingecko_id": "",
+      "keywords": [
+        "memecoin"
+      ],
+      "socials": {
+        "webiste": "https://www.ibcmeme.wtf",
+        "twitter": "https://twitter.com/IBCmemecoin"
+      },
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ibc.png"
+        }
+      ]
+    },
+    {
+      "description": "The native fee, governance and staking token of the Tinkernet Parachain.",
+      "denom_units": [
+        {
+          "denom": "ibc/3A0A392E610A8D477851ABFEA74F3D828F36C015AB8E93B0FBB7566A6D13C4D6",
+          "exponent": 0,
+          "aliases": [
+            "2125",
+            "ibc/C58E5D2571042137CB68B1B9851C4E7211C05F7C2C79E21E0966AF0F063961F8"
+          ]
+        },
+        {
+          "denom": "tnkr",
+          "exponent": 12
+        }
+      ],
+      "type_asset": "ics20",
+      "base": "ibc/3A0A392E610A8D477851ABFEA74F3D828F36C015AB8E93B0FBB7566A6D13C4D6",
+      "name": "Tinkernet",
+      "display": "tnkr",
+      "symbol": "TNKR",
+      "traces": [
+        {
+          "type": "bridge",
+          "counterparty": {
+            "chain_name": "tinkernet",
+            "base_denom": "Planck"
+          },
+          "provider": "Tinkernet Parachain"
+        },
+        {
+          "type": "ibc",
+          "counterparty": {
+            "chain_name": "picasso",
+            "base_denom": "2125",
+            "channel_id": "channel-17"
+          },
+          "chain": {
+            "channel_id": "channel-2",
+            "path": "transfer/channel-2/2125"
+          }
+        },
+        {
+          "type": "ibc",
+          "counterparty": {
+            "chain_name": "composable",
+            "base_denom": "ibc/C58E5D2571042137CB68B1B9851C4E7211C05F7C2C79E21E0966AF0F063961F8",
+            "channel_id": "channel-3"
+          },
+          "chain": {
+            "channel_id": "channel-1279",
+            "path": "transfer/channel-1279/transfer/channel-2/2125"
+          }
+        }
+      ],
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/tinkernet/images/tnkr.svg"
+      },
+      "images": [
+        {
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/tinkernet/images/tnkr.svg"
+        }
+      ]
+    },
+    {
+      "denom_units": [
+        {
+          "denom": "ibc/04FAC73DFF7F1DD59395948F2F043B0BBF978AD4533EE37E811340F501A08FFB",
+          "exponent": 0,
+          "aliases": [
+            "factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk"
+          ]
+        },
+        {
+          "denom": "rstk",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "ics20",
+      "base": "ibc/04FAC73DFF7F1DD59395948F2F043B0BBF978AD4533EE37E811340F501A08FFB",
+      "name": "Restake DAO Token",
+      "display": "rstk",
+      "symbol": "RSTK",
+      "traces": [
+        {
+          "type": "ibc",
+          "counterparty": {
+            "chain_name": "migaloo",
+            "base_denom": "factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk",
+            "channel_id": "channel-5"
+          },
+          "chain": {
+            "channel_id": "channel-642",
+            "path": "transfer/channel-642/factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk"
+          }
+        }
+      ],
+      "images": [
+        {
+          "image_sync": {
+            "chain_name": "migaloo",
+            "base_denom": "factory/migaloo1d0uma9qzcts4fzt7ml39xp44aut5k6qyjfzz4asalnecppppr3rsl52vvv/rstk"
+          },
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rstk.png",
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rstk.svg"
+        }
+      ],
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rstk.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rstk.svg"
+      }
     }
   ]
 }
